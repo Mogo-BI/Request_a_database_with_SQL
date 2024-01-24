@@ -1,6 +1,6 @@
 # Request_a_database_with_SQL
 
-<h1>Context</h1>
+<h1>I. Context</h1>
 
 I did a consulting mission like BI Analyst in 'Dat'Assur Habitation', a B2C insurance company.
 
@@ -12,7 +12,7 @@ For that, I needed to realize an inventory of currents contracts, to try to stan
 
 They wished customers pay according to their profiles, their locations, their status (tenant or owner) and their property types (house or appartment)
 
-<h1>Methodology</h1>
+<h1>II. Methodology</h1>
   <h2>1. Reception of datafiles</h2>
     <li>Data exploration of .CSV files</li>
     <li>Datatypes definition (string, float, integer...)</li>
