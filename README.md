@@ -2,7 +2,7 @@
 
 <h1>I. Context</h1>
 
-I did a consulting mission like BI Analyst in 'Dat'Assur Habitation', a B2C insurance company.
+I did a consulting mission like BI Analyst in **Dat'Assur Habitation**, a B2C insurance company.
 
 The CEO thought his company must stand out of the competition by resting on data to analyze his currents contracts portfolio and thus become **'Data-Driven'** (*that's to say decisions making must rest on largely on data*)
 
