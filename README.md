@@ -32,3 +32,11 @@ They wished customers pay according to their profiles, their locations, their st
     <li>Graphics creations based on selected results</li>
     <li>Present the visualizations by connecting their with client objectives</li>
     <li>Presentation of the results and methodology through a report which details all the steps of our work.</li>
+
+<h1>III. Technologies & skills</h1>
+
+   <h2>1. Technologies</h2>
+
+   <h2>2. Skills</h2>
+
+<h1>IV. References</h1>
