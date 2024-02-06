@@ -36,6 +36,9 @@ They wished customers pay according to their profiles, their locations, their st
 <h1>III. Technologies & skills</h1>
 
    <h2>1. Technologies</h2>
+     <li>Microsoft Excel</li>
+     <li>Microsoft Powerpoint</li>
+     <li>SQLite Studio</li>
 
    <h2>2. Assessed skills</h2>
      <li>Loading data into a database</li>
