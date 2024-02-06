@@ -37,7 +37,9 @@ They wished customers pay according to their profiles, their locations, their st
 
    <h2>1. Technologies</h2>
 
-   <h2>2. Skills</h2>
+   <h2>2. Assessed skills</h2>
+     <li>Loading data into a database</li>
+     <li>Write simple scripts in SQL to help with business decision-making</li>
 
 <h1>IV. References</h1>
 
